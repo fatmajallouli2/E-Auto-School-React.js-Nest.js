@@ -44,7 +44,6 @@
       "name": "Vehicle management",
       "text": "addition, update, decommissioning of vehicles. The management of periodic maintenance of each vehicle such as repairs, insurance, stickers and technical inspection"
     },
-     
     {
       "icon": "fa fas fa-user",
       "name": "Candidate management",
@@ -56,8 +55,6 @@
       "text": "Monitor and manage bookings, cancellations and changes to the highway code, driving and exam sessions."
       
     },
-   
-    
     {
       "icon": "fa far fa-credit-card",
       "name": "Online payment",

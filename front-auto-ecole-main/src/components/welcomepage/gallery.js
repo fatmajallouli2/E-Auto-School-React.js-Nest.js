@@ -203,7 +203,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/pay-large.jpg'
+                    href='img/portfolio/pay.jpg'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
