@@ -1,0 +1,353 @@
+[
+  { "category": "Indication routière",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Ma posture est correcte pour ",
+    "correct_answer": "Tourner à gauche",
+    "incorrect_answers": [
+      "je continue d'avancer",
+      "Tourner à gauche ou continuer d'avancer",
+      "Tourner à droite"
+    ],
+    "source":"../imagesquiz/l.png"
+  },{
+    "category": "panneaux de circulation",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "je dois tenir compte de ce panneau",
+    "correct_answer": "dans les deux cas",
+    "incorrect_answers": [
+      "lorsque la chaussée est mouillée",
+      "lorsque la chaussée est sèche"
+      
+      
+    ],
+    "source":"../imagesquiz/1.png"
+  },
+  {
+    "category": "feu de véhicule",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "j'allume",
+    "correct_answer": "les feux de croisements",
+    "incorrect_answers": [
+      "les feux de position"
+      ,"les phares",
+      "Les feux de brouillard avant"
+      
+    ],
+    "source":"../imagesquiz/0.png"
+  },{
+    "category": "vehicules",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "cette étiquette annonce que ce véhicule transporte une matière",
+    "correct_answer": "corrosive",
+    "incorrect_answers": [
+      "toxique",
+      "infectueuse"
+      
+    ],
+    "source":"../imagesquiz/2.png"
+  },
+  {
+    "category": "circulation routière",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "le temps de réaction chez une personne en bonne santé dure en moyenne",
+    "correct_answer": "1 seconde",
+    "incorrect_answers": [
+      "5 secondes",
+      "3secondes"
+      
+    ],
+    "source":"../imagesquiz/3.png"
+  }
+  ,
+  {
+    "category": "panneaux de circulation",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "la signalisation indique que la circulation est à double sens",
+    "correct_answer": "à partir du panneau",
+    "incorrect_answers": [
+      "à 50m du panneau",
+      "à 150m du panneau",
+      "à 30m du panneaux"
+      
+    ],
+    "source":"../imagesquiz/4.png"
+  },
+  {
+    "category": "panneaux de circulation",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "La signalisation annonce que je vais rencontrer",
+    "correct_answer": "un cassis ou un dos d'âne",
+    "incorrect_answers": [
+      "un ralentisseur",
+      "un virage"
+      
+    ],
+    "source":"../imagesquiz/6.png"
+  }
+  ,
+    { "category": "conducteur",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Que dois-je faire?",
+    "correct_answer": "je ne freine pas et je continue dans ce chemin",
+    "incorrect_answers": [
+      "je freine","klaxonner","je penche à droite"
+    ],
+    "source":"../imagesquiz/z.png"
+  },
+{ "category": "Habitude routière",
+"type": "multiple",
+"difficulty": "medium",
+"question": "je surveille attentivement en:",
+"correct_answer": "A et B",
+"incorrect_answers": ["A",
+  "B",
+  "C"
+  
+],
+"source":"../imagesquiz/15.png"
+},
+{ "category": "Véhicules",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "le conducteur peut-il voire le chat?",
+  "correct_answer": "Non",
+  "incorrect_answers": [
+    "oui s'il regarde directement derrière lui",
+    "oui s'il regarde dans le caméra de recul"
+    
+  ],
+  "source":"../imagesquiz/13.png"}
+  ,
+  { "category": "Conducteur",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Si je ralentis, que ce passe-t-il? ",
+    "correct_answer": "je diminue la distance d'arrêt",
+    "incorrect_answers": ["j'augmente la distance d'arrêt",
+      "je diminue le temps de réaction",
+      "j'augmente le temps de réaction"
+      
+    ],
+    "source":"../imagesquiz/14.png"
+  },
+    { "category": "Conducteur",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "à 500m, avec une acuité visuelle comprise entre 8 et 10/10eme:",
+      "correct_answer": " je distigue la couleur bleue d'un panneau autoroutier",
+      "incorrect_answers": [
+        "je ne peux pas distiguer la couleur bleue d'un panneau autoroutier" ,
+        "les indications sur ce panneau"
+      ],
+      "source":"../imagesquiz/y.png"
+    }
+      ,
+{ "category": "Panneau de circulation",
+  "type": "multiple",
+  "difficulty": "easy",
+  "question": "ce panneau annonce:",
+  "correct_answer": "un zig sérieux",
+  "incorrect_answers": [
+    "Plusieurs hauteurs et pentes",
+    "Plusieurs virages dangereux"
+    
+  ],
+  "source":"../imagesquiz/a.png"
+},
+{ "category": "Panneau de circulation",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Le signe indique",
+  "correct_answer": "la priorité seulement au prochain carrefour",
+  "incorrect_answers": [
+    " la priorité à divers carrefours",
+    "bloquer la priorité"
+  ],
+  "source":"../imagesquiz/b.png"
+},{ "category": "Panneau de circulation",
+  "type": "multiple",
+  "difficulty": "easy",
+  "question": "Le signe signifie",
+  "correct_answer": "Obligé de continuer à avancer",
+  "incorrect_answers": [
+    "Golan dans une direction",
+    "interdit de terminer en avant"
+
+  ],
+  "source":"../imagesquiz/c.png"
+},
+{ "category": "Panneau de circulation",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Le signe signifie",
+  "correct_answer": "Carrefour de rotation",
+  "incorrect_answers": [
+    "Virage forcé à gauche",
+    "Vents latéraux forts"
+
+
+  ],
+  "source":"../imagesquiz/d.png"
+},
+{ "category": "feux de route",
+  "type": "multiple",
+  "difficulty": "hard",
+  "question": "La lumière passe du vert à l'orange",
+  "correct_answer": "sarrêter",
+  "incorrect_answers": [
+    "Je garde la même vitesse et ordre",
+    "accélérer"
+    
+  ],
+  "source":"../imagesquiz/e.png"
+},{ "category": "Signes de route",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Ce signe signifie",
+  "correct_answer": "pente dangereuse",
+  "incorrect_answers": [
+    "haute courbure",
+    "Une route qui se termine à une jetée ou au bord d'une rivière"
+  ],
+  "source":"../imagesquiz/f.png"
+},
+{ "category": "Habitude Routière",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "L'emplacement de cette véhicule est:",
+  "correct_answer": "Interdit",
+  "incorrect_answers": [
+    "Valide",
+    "Autorisé"
+  ],
+  "source":"../imagesquiz/g.png"
+},{ "category": " feux de route",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "lumière orange s'allume et s'éteint",
+  "correct_answer": "commander avec prudence",
+  "incorrect_answers": [
+    "Laisser la priorité à droite",
+    "Laisser la priorité à gauche"
+  ],
+  "source":"../imagesquiz/h.png"
+},{ "category": "Circulation routière",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Dans ce cas, que dois-je-faire?",
+  "correct_answer": "j'utilise le bon chemin",
+  "incorrect_answers": [
+    "frein",
+    "je garde la même vitesse et le même chemin"
+  ],
+  "source":"../imagesquiz/i.png"
+},
+
+{ "category": "Secourisme",
+  "type": "multiple",
+  "difficulty": "hard",
+  "question": "Les premières opérations dans l'ambulance sont",
+  "correct_answer": "protection",
+  "incorrect_answers": [
+    "médias","secours"
+  ],
+  "source":"../imagesquiz/j.png"
+},
+{ "category": "Panneau de la route",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Ce signe indique la proximité de",
+  "correct_answer": "Place debout",
+  "incorrect_answers": [
+    "poste d'extraction","Station de distribution d'essence"
+  ],
+  "source":"../imagesquiz/k.png"
+},
+{ "category": "Situation Routière",
+  "type": "multiple",
+  "difficulty": "easy",
+  "question": "Dans cette position",
+  "correct_answer": "je penche à droite",
+  "incorrect_answers": [
+    "je vais continuer dans cette voie",
+    "S'arrêter",
+    "je penche à gauche"
+  ],
+  "source":"../imagesquiz/m.png"
+},{ "category": "Situation Routière",
+  "type": "multiple",
+  "difficulty": "hard",
+  "question": "Au niveau de ce point singulier, une chicane est aménagée pour:",
+  "correct_answer": "créer un refuge entre les chaussées et réduire la vitesse",
+  "incorrect_answers": [
+    "créer un refuge entre les chaussées et augmenter la vitesse",
+    "accélerer "
+  ],
+  "source":"../imagesquiz/o.png"
+},{ "category": "Situation Routière",
+  "type": "multiple",
+  "difficulty": "medium",
+  "question": "Dans cette positon",
+  "correct_answer": "Je surveille son attention",
+  "incorrect_answers": [
+    "Cet usager a la priorité de passage",
+    "Je ne surveille pas son attention car c'est ma priorité"
+  ],
+  "source":"../imagesquiz/n.png"
+},{ "category": "Maintenance de véhicule",
+  "type": "multiple",
+  "difficulty": "hard",
+  "question": "je remplace mes balais d'essuie-glace",
+  "correct_answer": "deux fois par an",
+  "incorrect_answers": [
+    "tous les 2 ans",
+    "tous les 3 ans",
+    "chaque année"
+  ],
+  "source":"../imagesquiz/q.png"
+},
+{
+   "category": "Circulation",
+   "type": "multiple",
+   "difficulty": "hard",
+   "question": "il est possible de regarder sans risque le système de navigation pendant",
+   "correct_answer": "1 seconde",
+   "incorrect_answers": [
+     "2.5 secondes",
+     "3 secondes",
+     "2 secondes"
+     
+   ],
+   "source":"../imagesquiz/77.png"
+ },
+ { "category": "Indication routière",
+ "type": "multiple",
+ "difficulty": "hard",
+ "question": "La manche à air indique",
+ "correct_answer": "la force du vent et la direction du vent",
+ "incorrect_answers": [
+   " uniquement la force du vent", "uniquement  la direction du vent"
+ ],
+ "source":"../imagesquiz/78.png"
+}
+,
+ { "category": "Véhicule",
+ "type": "multiple",
+ "difficulty": "easy",
+ "question": "Je roule à 110km/h, je parcours environ:",
+ "correct_answer": "30m/s ",
+ "incorrect_answers": [
+   "60m/s","20m/s"
+  ],
+ "source":"../imagesquiz/79.png"
+}
+]
+  

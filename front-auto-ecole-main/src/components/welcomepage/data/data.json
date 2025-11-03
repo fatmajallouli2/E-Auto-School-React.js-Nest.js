@@ -1,0 +1,113 @@
+
+{
+  "Header": {
+    "title": "E-AUTO SCHOOL",
+    "paragraph": "innovative, adapted and efficient online management application to properly organize your driving school."
+  },
+  "Features": [
+    {
+      "icon": "fa fas fa-user",
+      "title": "The manager",
+      "text": "The manager supervises his driving school, his cars and candidates."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "The Candidates",
+      "text": "A candidate has an account on the platform. He can consult his sessions and exams calendar and do two code quizzes."
+    }
+  ],
+  "About": {
+    "paragraph": "E-AUTO SCHOOL allows you to give a new look to the management of your driving school.It's an opportunity to make daily savings in an innovative and intuitive solution. No investment at the time of purchase, without commitment and usable immediately. Solution for all, in fact, managers and candidates have an account and their own rights.",
+    "Why": [
+      "Free test",
+      "Accounting",
+      "Supervision",
+      "Following-up"
+      
+    ],
+    "Why2": [
+      "Dematerialized",
+      "Online planning",
+      "Account consultation",
+      "vehicle maintenance management"
+      
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-group",
+      "name": "Employee management",
+      "text": "Stay on top of your business performance with the admin area. Manage the tasks of your employees.Track provider workload and more with your dashboard."
+    },
+    {
+      "icon": "fa fa-car",
+      "name": "Vehicle management",
+      "text": "addition, update, decommissioning of vehicles. The management of periodic maintenance of each vehicle such as repairs, insurance, stickers and technical inspection"
+    },
+     
+    {
+      "icon": "fa fas fa-user",
+      "name": "Candidate management",
+      "text": "Organize your candidates and monitor rosters, manage the registration of candidates and control their learning progress through quizzes of the highway code."
+    },
+    {
+      "icon": "fa far fa-calendar",
+      "name": "Planning management",
+      "text": "Monitor and manage bookings, cancellations and changes to the highway code, driving and exam sessions."
+      
+    },
+   
+    
+    {
+      "icon": "fa far fa-credit-card",
+      "name": "Online payment",
+      "text": "Paying remotely is more secure, efficient and faster than using cash. It’s easier to administer by going completely cashless."
+    },
+    {
+      "icon": "fa fas fa-laptop",
+      "name": "Intuitive and dematerialized solution",
+      "text": "The site is easy to use with easy handling even for computer beginners. Your data can be used on any medium (Computers, phones, tablets)."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"It is an extraordinary application. It helped me enormously to organize my team and my candidates in a very short time.\"",
+      "name": "Mohamed Louati"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"very good solution to save time, avoid administrative stress and supervise my employees and control the smooth running of the work.\"",
+      "name": "Sadak Kammoun"
+    },
+    {
+      "img": "img/testimonials/07.jpg",
+      "text": "\"By going completely cashless, I had an easier time with administration, accounting, and auditing. There’s no cash to track or bank; instead, every transaction is recorded digitally on my platform.\"",
+      "name": "Islem Regaieg"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Thanks to this application, I was able to follow periodic maintenance of all my driving vehicles with alarm display, as well as the management of repairs, insurance, stickers and technical visit.\"",
+      "name": "karim Jerad"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"our dear candidates really liked the quiz questions to revise the highway code at home. In addition, the fact of planning their sessions of code and conduct pleased them a lot.\"",
+      "name": "Dorra Chiboub"
+    },
+    {
+      "img": "img/testimonials/08.jpg",
+      "text": "\"This application is very easy and simple to use either by the admin or by the candidates even if they do not have extensive knowledge of IT.\"",
+      "name": "Wafa Amri"
+    }
+  ],  
+  
+  "Contact": {
+    "address": "9 Street Charles Fourier, Paris,France",
+    "phone": "+33 456987663",
+    "email": "eautoschool79@gmail.com",
+    "linkedin":"https://www.linkedin.com/in/e-auto-school-61522a21b/",
+    "instagram":"https://www.instagram.com/e_auto_school/"
+  }
+
+}
