@@ -7,15 +7,15 @@ Elle permet aux administrateurs de gérer les candidats, les séances de code, d
 
 # Objectifs principaux
 
-Automatiser la gestion des inscriptions et des paiements en ligne.
+* Automatiser la gestion des inscriptions et des paiements en ligne.
 
-Offrir aux candidats la possibilité de réviser le code de la route à distance via des tests interactifs.
+* Offrir aux candidats la possibilité de réviser le code de la route à distance via des tests interactifs.
 
-Planifier efficacement les séances de conduite, de code et les examens.
+* Planifier efficacement les séances de conduite, de code et les examens.
 
-Gérer les véhicules (ajout, maintenance, assurances, visites techniques, etc.).
+* Gérer les véhicules (ajout, maintenance, assurances, visites techniques, etc.).
 
-Centraliser la gestion des candidats et des employés.
+* Centraliser la gestion des candidats et des employés.
 
 # Architecture logicielle du projet : MVC
 
@@ -37,11 +37,11 @@ L’application est basée sur une architecture client-serveur composée de deux
 
 * Technologie : ReactJS
 
-* Composants principales via une :
+* Composants principales:
 
-* Page d’accueil pour E-Auto School: Elle présente l’application et ses services, propose un aperçu du portfolio, et inclut plusieurs sections clés comme section "À propos", "Foncionnalités", "Contact", "Avis".
+- Page d’accueil pour E-Auto School: Elle présente l’application et ses services, propose un aperçu du portfolio, et inclut plusieurs sections clés comme section "À propos", "Foncionnalités", "Contact", "Avis".
 
-* 2 Interfaces utilisateurs: La première est destinée aux administrateurs et la deuxième est destinée aux candidats. Elles assurent la gestion des inscriptions, connexions, paiements, planification et gestion des ressources.
+- 2 Interfaces utilisateurs: La première est destinée aux administrateurs et la deuxième est destinée aux candidats. Elles assurent la gestion des inscriptions, connexions, paiements, planification et gestion des ressources.
 
 🔹 Backend : Il traite les requêtes, applique la logique métier et interagit avec la base de données.
 
