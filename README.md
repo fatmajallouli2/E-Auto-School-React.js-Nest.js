@@ -77,7 +77,7 @@ Base de données : PostreSQL
 
 Outils : Postman (tests d’API)
 
-# connect to postgreSQL database:
+# To connect to postgreSQL database:
 * cmd> psql -U postgres
 * password: 123456
 * connect to the database with : \c autoschool
