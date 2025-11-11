@@ -1,12 +1,7 @@
-Before starting backend, connect to postgresql database:
-cmd> psql -U postgres
-password: 123456
-connect to the database with : \c autoschool
--------------
-to start backend:
-npm install
-npm run start
--------------
+# connect to postgreSQL database:
+* cmd> psql -U postgres
+* password: 123456
+* connect to the database with : \c autoschool
 
 ## Installation
 

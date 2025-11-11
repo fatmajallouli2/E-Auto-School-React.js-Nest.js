@@ -76,3 +76,16 @@ Backend : NestJS + Axios + JWT
 Base de données : PostreSQL
 
 Outils : Postman (tests d’API)
+
+# connect to postgreSQL database:
+* cmd> psql -U postgres
+* password: 123456
+* connect to the database with : \c autoschool
+
+# To start the backend: 
+* npm install
+* npm run start
+
+# To start frontend: 
+* npm install
+* npm start
