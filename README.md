@@ -1,9 +1,9 @@
+# Notes: L'application n'est pas encore terminée et doit être améliorée
+
 # Description du projet
 
 E-AUTO SCHOOL est une application web développée pour faciliter la gestion administrative des auto-écoles.
 Elle permet aux administrateurs de gérer les candidats, les séances de code, de conduite et d’examens, les véhicules et les ressources humaines, tout en améliorant la planification et le suivi des activités quotidiennes.
-
-# Notes: L'application n'est pas encore terminée et doit être améliorée
 
 # Objectifs principaux
 
@@ -39,9 +39,9 @@ L’application est basée sur une architecture client-serveur composée de deux
 
 * Composants principales:
 
-- Page d’accueil pour E-Auto School: Elle présente l’application et ses services, propose un aperçu du portfolio, et inclut plusieurs sections clés comme section "À propos", "Foncionnalités", "Contact", "Avis".
+Page d’accueil pour E-Auto School: Elle présente l’application et ses services, propose un aperçu du portfolio, et inclut plusieurs sections clés comme section "À propos", "Foncionnalités", "Contact", "Avis".
 
-- 2 Interfaces utilisateurs: La première est destinée aux administrateurs et la deuxième est destinée aux candidats. Elles assurent la gestion des inscriptions, connexions, paiements, planification et gestion des ressources.
+2 Interfaces utilisateurs: La première est destinée aux administrateurs et la deuxième est destinée aux candidats. Elles assurent la gestion des inscriptions, connexions, paiements, planification et gestion des ressources.
 
 🔹 Backend : Il traite les requêtes, applique la logique métier et interagit avec la base de données.
 
